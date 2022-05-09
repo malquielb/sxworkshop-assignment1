@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{F24D430E-2C45-43E3-A9A9-E097B7C3F956}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{196C305E-4384-4A1A-8BC7-A47B963BE303}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{5BC95D6E-0E7C-46CA-8217-1E738249195E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{13EB09B2-3B56-447B-A36F-ED9BCB90D1A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuasarGames.Domain", "QuasarGames.Domain\QuasarGames.Domain.csproj", "{605A41B4-D0EF-4EB4-80AF-30F1B0FD1A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuasarGames.Application", "QuasarGames.Application\QuasarGames.Application.csproj", "{C115AA3C-D53F-4F21-9586-A7CD291C040E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuasarGames.Persistence", "QuasarGames.Persistence\QuasarGames.Persistence.csproj", "{A65034E5-B157-45F2-9006-8610793C0C6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuasarGames.Api", "QuasarGames.Api\QuasarGames.Api.csproj", "{534E076C-AAE4-4BA7-8E94-C33EA664796D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{605A41B4-D0EF-4EB4-80AF-30F1B0FD1A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605A41B4-D0EF-4EB4-80AF-30F1B0FD1A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605A41B4-D0EF-4EB4-80AF-30F1B0FD1A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605A41B4-D0EF-4EB4-80AF-30F1B0FD1A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C115AA3C-D53F-4F21-9586-A7CD291C040E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C115AA3C-D53F-4F21-9586-A7CD291C040E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C115AA3C-D53F-4F21-9586-A7CD291C040E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C115AA3C-D53F-4F21-9586-A7CD291C040E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A65034E5-B157-45F2-9006-8610793C0C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A65034E5-B157-45F2-9006-8610793C0C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A65034E5-B157-45F2-9006-8610793C0C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A65034E5-B157-45F2-9006-8610793C0C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534E076C-AAE4-4BA7-8E94-C33EA664796D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534E076C-AAE4-4BA7-8E94-C33EA664796D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534E076C-AAE4-4BA7-8E94-C33EA664796D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534E076C-AAE4-4BA7-8E94-C33EA664796D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{196C305E-4384-4A1A-8BC7-A47B963BE303} = {F24D430E-2C45-43E3-A9A9-E097B7C3F956}
+		{5BC95D6E-0E7C-46CA-8217-1E738249195E} = {F24D430E-2C45-43E3-A9A9-E097B7C3F956}
+		{13EB09B2-3B56-447B-A36F-ED9BCB90D1A6} = {F24D430E-2C45-43E3-A9A9-E097B7C3F956}
+		{605A41B4-D0EF-4EB4-80AF-30F1B0FD1A6C} = {196C305E-4384-4A1A-8BC7-A47B963BE303}
+		{C115AA3C-D53F-4F21-9586-A7CD291C040E} = {196C305E-4384-4A1A-8BC7-A47B963BE303}
+		{A65034E5-B157-45F2-9006-8610793C0C6C} = {5BC95D6E-0E7C-46CA-8217-1E738249195E}
+		{534E076C-AAE4-4BA7-8E94-C33EA664796D} = {13EB09B2-3B56-447B-A36F-ED9BCB90D1A6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DE8D435-3CEA-427E-8C79-4B2B71F5D0B3}
+	EndGlobalSection
+EndGlobal

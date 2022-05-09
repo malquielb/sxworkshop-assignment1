@@ -1,0 +1,12 @@
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Domain\bin\Debug\net6.0\QuasarGames.Domain.deps.json
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Domain\bin\Debug\net6.0\QuasarGames.Domain.dll
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Domain\bin\Debug\net6.0\QuasarGames.Domain.pdb
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Domain\obj\Debug\net6.0\QuasarGames.Domain.csproj.AssemblyReference.cache
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Domain\obj\Debug\net6.0\QuasarGames.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Domain\obj\Debug\net6.0\QuasarGames.Domain.AssemblyInfoInputs.cache
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Domain\obj\Debug\net6.0\QuasarGames.Domain.AssemblyInfo.cs
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Domain\obj\Debug\net6.0\QuasarGames.Domain.csproj.CoreCompileInputs.cache
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Domain\obj\Debug\net6.0\QuasarGames.Domain.dll
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Domain\obj\Debug\net6.0\refint\QuasarGames.Domain.dll
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Domain\obj\Debug\net6.0\QuasarGames.Domain.pdb
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Domain\obj\Debug\net6.0\ref\QuasarGames.Domain.dll

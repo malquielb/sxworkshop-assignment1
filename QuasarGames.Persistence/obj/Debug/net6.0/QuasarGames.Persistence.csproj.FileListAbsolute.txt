@@ -1,0 +1,17 @@
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\bin\Debug\net6.0\QuasarGames.Persistence.deps.json
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\bin\Debug\net6.0\QuasarGames.Persistence.dll
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\bin\Debug\net6.0\QuasarGames.Persistence.pdb
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\bin\Debug\net6.0\QuasarGames.Application.dll
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\bin\Debug\net6.0\QuasarGames.Domain.dll
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\bin\Debug\net6.0\QuasarGames.Application.pdb
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\bin\Debug\net6.0\QuasarGames.Domain.pdb
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\obj\Debug\net6.0\QuasarGames.Persistence.csproj.AssemblyReference.cache
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\obj\Debug\net6.0\QuasarGames.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\obj\Debug\net6.0\QuasarGames.Persistence.AssemblyInfoInputs.cache
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\obj\Debug\net6.0\QuasarGames.Persistence.AssemblyInfo.cs
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\obj\Debug\net6.0\QuasarGames.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\obj\Debug\net6.0\QuasarGames.Persistence.csproj.CopyComplete
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\obj\Debug\net6.0\QuasarGames.Persistence.dll
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\obj\Debug\net6.0\refint\QuasarGames.Persistence.dll
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\obj\Debug\net6.0\QuasarGames.Persistence.pdb
+C:\Users\malqu\dotnet\SolvexWorkshop\QuasarGames\QuasarGames.Persistence\obj\Debug\net6.0\ref\QuasarGames.Persistence.dll
